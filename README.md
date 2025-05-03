@@ -14,20 +14,4 @@ Install the following Python packages:
 ```bash
 pip install opencv-python mediapipe numpy
 
-## How it works
-Clone the repository and run the script:
-python air_canvas.py
 
-## Controls:
-Use Index Finger: Start drawing.
-Touch Thumb & Index Finger: Lift the brush (stop drawing).
-Raise Finger to Buttons Area (Top):
-    Click on color boxes to switch brush color
-    Click on "CLEAR" to reset the canvas
-Press 'q': Quit the application
-
-## How it Works
-Uses MediaPipe Hands to detect hand landmarks
-Tracks index finger position to determine brush position
-Detects color switch and clear commands when the finger hovers over UI buttons
-Draws strokes in real-time using OpenCV line function
