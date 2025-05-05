@@ -28,7 +28,7 @@ Uses MediaPipe Hands to detect hand landmarks
 <br>Draws strokes in real-time using OpenCV line function
 
 ## 🛠️ Requirements 
-<b><u>python 3.10.0</u> </b>
+<b><u>python 3.10.0</u></b>
 <br>
 Install the following Python packages:
 
