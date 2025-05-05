@@ -28,7 +28,7 @@ python air_canvas.py
 <br>Draws strokes in real-time using OpenCV line function
 
 ## 🛠️ Requirements 
-python 3.10.0
+<b>python 3.10.0
 <br>
 Install the following Python packages:
 
