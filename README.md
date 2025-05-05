@@ -29,8 +29,10 @@ Draws strokes in real-time using OpenCV line function
 
 ## 🛠️ Requirements 
 Install the following Python packages:
+python 3.10.0
 ```bash
-pip install opencv-python mediapipe numpy
+py -3.10 -m pip install mediapipe opencv-python numpy
+
 
 
 
