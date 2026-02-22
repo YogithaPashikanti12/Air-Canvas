@@ -35,6 +35,11 @@ Install the following Python packages:
 ```bash
 py -3.10 -m pip install mediapipe opencv-python numpy
 
+```bash
+pip uninstall mediapipe -y
+pip cache purge
+pip install mediapipe==0.10.9
+
 
 
 
